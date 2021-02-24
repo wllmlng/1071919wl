@@ -1,6 +1,6 @@
 ### Hi there 👋
-##Email: w.leung.93@gmail.com
-##Phone: (415) 516-9507
+#### Email: w.leung.93@gmail.com
+#### Phone: (415) 516-9507
 <!--
 **1071919wl/1071919wl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
